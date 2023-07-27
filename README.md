@@ -1,5 +1,5 @@
 # Birthdays Book
-A console application that allows adding/getting/updating birthdays to json files. It also visuilize simple statistics into a plot using bokeh.
+A console application that allows adding/getting/updating birthdays to json files. It also visualize simple statistics into a plot using bokeh.
 
 ## Prerequisites
 - Python 3.x
