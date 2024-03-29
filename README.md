@@ -18,3 +18,5 @@ pip3 install bokeh
 ```
 python birthdays_book.py
 ```
+## Demo
+![Stats](https://github.com/MohammadYaserAzrak/BirthdaysBook/assets/110301018/638e8635-a983-44cf-8000-53fe2f244e1e)
